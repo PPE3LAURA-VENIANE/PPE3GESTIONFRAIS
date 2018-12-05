@@ -1,2 +1,2 @@
 <?php 
-include 'header.php';
+include 'GSB_header.php';
