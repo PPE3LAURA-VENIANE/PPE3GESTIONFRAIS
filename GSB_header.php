@@ -9,7 +9,5 @@
 <body>
 
 <?php
-/*
-  $bdd = mysqli_connect('localhost', 'root', '', 'nomdebddpasencorechoisi');
-*/
+include 'GSB_connexionBdd.php';
 ?>
