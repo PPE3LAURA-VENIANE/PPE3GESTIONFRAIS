@@ -5,7 +5,7 @@ include 'GSB_header.php';
 
     <div class="grid">
 
-    <img src="images/GSB_logo.jpg" alt="Logo de GSB" class="GSB_logo">
+    <img src="images/GSB_logo.png" alt="Logo de GSB" class="GSB_logo">
 
     <form action="https://httpbin.org/post" method="POST" class="form login">
 
